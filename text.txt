@@ -1,1 +1,1 @@
-This is Text file 
+This is Script file 
